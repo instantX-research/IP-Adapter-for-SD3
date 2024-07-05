@@ -20,6 +20,8 @@
 </div>
 
 
+IP-Adapter-for-SD3 is an adaptation scheme of [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) on [stabilityai/stable-diffusion-3-medium](https://huggingface.co/stabilityai/stable-diffusion-3-medium), with the algorithmic structure highly referencing that of IP-Adapter. It is designed to maintain the basis of text editing while introducing image guidance. Image guidance includes the embedding of people, objects, and styles. It is also compatible with [SD3-Controlnet-Canny](https://huggingface.co/InstantX/SD3-Controlnet-Canny), [SD3-Controlnet-Tile](https://huggingface.co/InstantX/SD3-Controlnet-Tile), [SD3-Controlnet-Pose](https://huggingface.co/InstantX/SD3-Controlnet-Pose), and other SD3 plugins.
+
 <div align="center">
 <img src='assets/case.png' width = 900 >
 </div>
