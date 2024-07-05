@@ -12,4 +12,11 @@
 
 <sup>*</sup>corresponding authors
 
+
+<a href='https://github.com/instantX-research/IP-Adapter-for-SD3'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='xxxxx'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](xxxxxxxx)
+[![GitHub](https://img.shields.io/github/stars/InstantStyle/InstantStyle?style=social)](https://github.com/instantX-research/IP-Adapter-for-SD3)
+
+
 </div>
