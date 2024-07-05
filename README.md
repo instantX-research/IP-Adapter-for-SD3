@@ -1,7 +1,7 @@
 <div align="center">
 <h1>IP-Adapter for SD3</h1>
 
-[**Qixun Wang**](https://github.com/wangqixun)<sup>1+</sup> · [**Xu Bai**](https://github.com/Yue02280220)<sup>1+</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>1*</sup> · [**Hu Ye**](https://github.com/xiaohu2015)<sup>12</sup>
+[**Qixun Wang**](https://github.com/wangqixun)<sup>1+</sup> · [**Xu Bai**](https://github.com/Yue02280220)<sup>1+</sup> · [**Hu Ye**](https://github.com/xiaohu2015)<sup>12</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>1*</sup>
 
 
 <sup>1</sup>InstantX Team
