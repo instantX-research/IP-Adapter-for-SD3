@@ -6,7 +6,7 @@
 
 <sup>1</sup>InstantX Team
 
-<sup>2</sup>虎虎生威有限公司
+<sup>2</sup>Tencent
 
 <sup>+</sup>equal contribution
 
